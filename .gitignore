@@ -1,0 +1,73 @@
+# =========================================================
+#  DIHA_museo_Olaia_Picabea
+#  Raíz: memoria (PDF) + build (APK) + proyecto Unity
+# =========================================================
+
+# ---------- Proyecto Unity (DIHA_codigo_museo_Olaia) ----------
+# Carpetas generadas por Unity (se regeneran al abrir el proyecto)
+/DIHA_codigo_museo_Olaia/[Ll]ibrary/
+/DIHA_codigo_museo_Olaia/[Tt]emp/
+/DIHA_codigo_museo_Olaia/[Oo]bj/
+/DIHA_codigo_museo_Olaia/[Bb]uild/
+/DIHA_codigo_museo_Olaia/[Bb]uilds/
+/DIHA_codigo_museo_Olaia/[Ll]ogs/
+/DIHA_codigo_museo_Olaia/[Uu]ser[Ss]ettings/
+/DIHA_codigo_museo_Olaia/[Mm]emoryCaptures/
+/DIHA_codigo_museo_Olaia/[Rr]ecordings/
+/DIHA_codigo_museo_Olaia/.utmp/
+
+# Plugins/caches que Unity regenera
+/DIHA_codigo_museo_Olaia/Assets/Plugins/Editor/JetBrains*
+/DIHA_codigo_museo_Olaia/Assets/AssetStoreTools*
+/DIHA_codigo_museo_Olaia/Assets/StreamingAssets/aa/*
+/DIHA_codigo_museo_Olaia/Assets/[Ss]treamingAssets/aa.meta
+**/ServerData/
+**/Assets/AddressableAssetsData/*/*.bin*
+
+# Archivos de IDE / soluciones generadas por Unity
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.consulo/
+ExportedObj/
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Unity: metas de archivos ignorados
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds sueltas dentro del proyecto Unity (el APK de la raíz SÍ se sube)
+/DIHA_codigo_museo_Olaia/**/*.apk
+/DIHA_codigo_museo_Olaia/**/*.aab
+/DIHA_codigo_museo_Olaia/**/*.unitypackage
+/DIHA_codigo_museo_Olaia/**/*.app
+
+# Repositorio git antiguo del proyecto Unity (por si acaso)
+/DIHA_codigo_museo_Olaia/.git/
+/DIHA_codigo_museo_Olaia/.gitignore
+/DIHA_codigo_museo_Olaia/.gitattributes
+
+# ---------- Sistema operativo ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
