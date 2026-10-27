@@ -63,3 +63,12 @@ Es la transición en la que la nave vuela hacia el destino elegido. Un cilindro 
 - **C#**, **Shader Graph** y el nuevo **Input System**
 - **Git y GitHub** (con Git LFS) para el trabajo en equipo
 - Recursos: Unity Asset Store (nave, planetas, altavoces y tablet), imágenes 2D de los planetas generadas con Gemini y audios generados con Luvvoice
+
+
+## Equipo
+
+| Integrante | Estancia |
+|---|---|
+| Manuel Alejandro Villalba | Fenómenos cósmicos extremos y Hangar |
+| **Olaia Picabea** | **Sistema solar y Viaje entre escenas** |
+| Álvaro Quintanilla Carrasco  | Asteroides, la luna y posible vida en otros planetas |
